@@ -20,7 +20,7 @@ import java.util.List;
 
 
 @Configuration
-@ComponentScan("com.SE325.J2EE")
+@ComponentScan("J2EE")
 @EnableWebMvc
 @EnableTransactionManagement
 @PropertySource("classpath:DataSource/datasource-cfg.properties")
